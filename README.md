@@ -1,4 +1,4 @@
-# Desafio Front-end do Agenda Edu
+# Desafio Front-end da Agenda Edu
 
 
 ## Introdução
